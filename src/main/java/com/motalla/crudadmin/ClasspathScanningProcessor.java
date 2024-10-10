@@ -18,7 +18,7 @@ import java.util.List;
 @Getter
 @Component
 public class ClasspathScanningProcessor {
-    
+
 
     private final CrudAdminProperties properties;
 
